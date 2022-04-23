@@ -1,0 +1,2 @@
+<li><a href="editUser.php?id=<?php echo $id ?>">Edit User</a></li>
+<li><a href="editUser.php?id=<?php echo $id ?>">Edit User</a></li>
